@@ -1,7 +1,18 @@
 # Python Notebooks
 This is collection of simple python scripts and jupyter notebook which may be useful for public
-1. PDF generator from list of Dataframes[pdf_generator.py](https://github.com/gauravmeena0708/python-notebooks/blob/master/pdf_generator.py)
-2. Indian Stocks analysis [Link](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20Balancesheet.ipynb)
+1. [PDF generator from list of Dataframes](https://github.com/gauravmeena0708/python-notebooks/blob/master/pdf_generator.py)
+2. [Indian Stocks analysis](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20Balancesheet.ipynb)
 3. [HR staff simulator with promotion, retirement and new hiring](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20HR%20Strength.ipynb)
-4. Simple email parser
-5. Whatsapp group chat summriser using OPEN_AI Chat GPT
+4. [Balance Sheet Processing](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20Balancesheet.ipynb)
+5. [Simple NLP Text summariser](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20NLP_Text_summarizer.ipynb)
+6. [Dynamic PDF Generation](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20PDF%20dynamic.ipynb)
+7. [Merging PDFs](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20PDF%20merge.ipynb)
+8. [Python Plots](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20Plot.ipynb)
+9. [Python with Regex](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20Regex.ipynb)
+10. [Python Animation](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20animation.ipynb)
+11. [Python Google sheet](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20gsheets.ipynb)
+12. [Python Bulk PDF OCR](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20pdf%20searchable.ipynb)
+13. [Python Simple Classifier](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20simple%20classifier.ipynb)
+14. [Python TTS](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20text%20to%20Speech.ipynb)
+15. [Whatsapp group chat summriser Simple](https://github.com/gauravmeena0708/python-notebooks/blob/master/Script%20whatsapp%20group%20summary.py)
+16. [Whatsapp group chat summriser using OPEN_AI Chat GPT](https://github.com/gauravmeena0708/python-notebooks/blob/master/Script%20whatsapp_summrizer_using_openai_gpt.py)
