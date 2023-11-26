@@ -6,12 +6,19 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter, landscape
 
 
+"""
+Example usecase:
+dataframes =[]
+dataframes.append(df)
+from pdf_generator import PDFGenerator
+pdf_generator = PDFGenerator(pdf_file="my_report.pdf")
+pdf_generator.create_pdf(dataframes)
+"""
 class PDFGenerator:
     def __init__(self, pdf_file):
         self.pdf_file = pdf_file
 
     def dataframe_to_list(self, df):
-        df.reset_index(inplace=True)
         data = [df.columns.tolist()] + df.values.tolist()
         return data
 
