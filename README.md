@@ -5,7 +5,7 @@ This is collection of simple python scripts and jupyter notebook which may be us
 3. [HR staff simulator with promotion, retirement and new hiring](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20HR%20Strength.ipynb)
 4. [Balance Sheet Processing](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20Balancesheet.ipynb)
 5. [Simple NLP Text summariser](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20NLP_Text_summarizer.ipynb)
-6. [Dynamic PDF Generation](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20PDF%20dynamic.ipynb)
+6. [Dynamic PDF Generation](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20PDF%20dynamic.ipynb) / [Class](https://github.com/gauravmeena0708/python-notebooks/blob/master/pdf_generator.py)
 7. [Merging PDFs](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20PDF%20merge.ipynb)
 8. [Python Plots](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20Plot.ipynb)
 9. [Python with Regex](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20Regex.ipynb)
