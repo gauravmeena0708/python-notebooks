@@ -17,7 +17,7 @@ This is collection of simple python scripts and jupyter notebook which may be us
 15. [Whatsapp group chat summriser Simple](https://github.com/gauravmeena0708/python-notebooks/blob/master/Script%20whatsapp%20group%20summary.py)
 16. [Whatsapp group chat summriser using OPEN_AI Chat GPT](https://github.com/gauravmeena0708/python-notebooks/blob/master/Script%20whatsapp_summrizer_using_openai_gpt.py)
 
-#ToDO
+# ToDO
 
 ## Datasets
 1. IRIS
