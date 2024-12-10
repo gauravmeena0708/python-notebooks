@@ -45,8 +45,16 @@ This is collection of simple python scripts and jupyter notebook which may be us
 3. GraphSage
 
 ### Others
-1. Variational Auto Encoder(VAE)
-2. KNN
+1. K-means clustering
+2. Variational Auto Encoder(VAE)
+3. KNN
+4. SVM
+5. Random Forest and Decision Trees
+6. Bag of Visual Words (BoVW)
+7. Principal Component analysis
+8. Naive Bayes
+9. Gaussian Mixture Models
+10. Histogram Based methods
 
 ### FrameWorks
 1. Pytorch
