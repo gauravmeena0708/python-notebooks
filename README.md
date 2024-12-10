@@ -55,6 +55,14 @@ This is collection of simple python scripts and jupyter notebook which may be us
 8. Naive Bayes
 9. Gaussian Mixture Models
 10. Histogram Based methods
+11. LDA (Linear Discriminant analysis)
+12. QDA (Quadratic Discriminant Analysis)
+13. LightGBM
+14. XGBoost
+15. CatBoost
+16. Deep Belief networks
+17. Generative Adversarial Networks
+18. Capsule Networks
 
 ### FrameWorks
 1. Pytorch
