@@ -16,3 +16,33 @@ This is collection of simple python scripts and jupyter notebook which may be us
 14. [Python TTS](https://github.com/gauravmeena0708/python-notebooks/blob/master/Notebook%20text%20to%20Speech.ipynb)
 15. [Whatsapp group chat summriser Simple](https://github.com/gauravmeena0708/python-notebooks/blob/master/Script%20whatsapp%20group%20summary.py)
 16. [Whatsapp group chat summriser using OPEN_AI Chat GPT](https://github.com/gauravmeena0708/python-notebooks/blob/master/Script%20whatsapp_summrizer_using_openai_gpt.py)
+
+#ToDO
+
+## Datasets
+1. IRIS
+2. MNIST Digit
+3. MNIST Fashion
+4. CIFAR 10
+5. CIFAR 100
+6. Indian Birds 25
+
+## Models
+1. LeNet-5 CNN
+2. Conv-6 CNN
+3. InceptionNet-v1 CNN
+4. ResNet-18
+5. ResNet-34
+6. ResNet-50
+7. VGG-16/17
+8. VGG - 18
+9. GCN ?
+10. GAT
+11. GraphSage
+12. WideResnet
+13. WideResnext
+14. Variational Auto Encoder(VAE)
+
+FrameWorks
+1. Pytorch
+2. Tensorflow
