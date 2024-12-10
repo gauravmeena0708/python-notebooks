@@ -19,7 +19,7 @@ This is collection of simple python scripts and jupyter notebook which may be us
 
 # ToDO
 
-## Datasets
+### Datasets
 1. IRIS
 2. MNIST Digit
 3. MNIST Fashion
@@ -27,7 +27,7 @@ This is collection of simple python scripts and jupyter notebook which may be us
 5. CIFAR 100
 6. Indian Birds 25
 
-## Models
+### CNN Models
 1. LeNet-5 CNN
 2. Conv-6 CNN
 3. InceptionNet-v1 CNN
@@ -36,13 +36,18 @@ This is collection of simple python scripts and jupyter notebook which may be us
 6. ResNet-50
 7. VGG-16/17
 8. VGG - 18
-9. GCN ?
-10. GAT
-11. GraphSage
-12. WideResnet
-13. WideResnext
-14. Variational Auto Encoder(VAE)
+9. WideResnet 28-10
+10. WideResnext
+    
+### Graph based
+1. GCN
+2. GAT
+3. GraphSage
 
-FrameWorks
+### Others
+1. Variational Auto Encoder(VAE)
+2. KNN
+
+### FrameWorks
 1. Pytorch
 2. Tensorflow
